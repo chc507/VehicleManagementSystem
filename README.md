@@ -7,17 +7,17 @@ Demo:
 Home screen:
  
 Fig. 1 Home screen
-![Demo](/screenshot/fig1.png)
+![Demo](/screenshots/fig1.png)
 Create: 
 Create Vehicle by clicking the “CREATE” button
    			 
 Fig.2 Create A Vehicle	
-![Demo](/screenshot/fig2.png)
+![Demo](/screenshots/fig2.png)
 
 
 	
 Fig.3 After Creating Vehicles
-![Demo](/screenshot/fig3.png)
+![Demo](/screenshots/fig3.png)
 Read: 
 Click the “GET ALL VEHICLES” or “GET” button
  			 
