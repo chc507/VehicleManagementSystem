@@ -46,6 +46,8 @@ Fig.6 Delete a Vehicle
 
 
 ![Demo](/screenshots/fig6.png)
+
+
 Fig.7 After Deleting a Vehicle
 
 ![Demo](/screenshots/fig7.png)
