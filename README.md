@@ -11,6 +11,7 @@ Fig. 1 Home screen
 
 ![Demo](/screenshots/fig1.png)
 Create: 
+
 Create Vehicle by clicking the “CREATE” button
    			 
 Fig.2 Create A Vehicle	
