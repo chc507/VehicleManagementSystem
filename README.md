@@ -32,3 +32,9 @@ Notes:
 1.	To install the application, please copy the application into the android device and click open for installation. Noted that users need to turn on “allow installation from unknown source”.
 
 2.	To open the project, unzip the file and copy the file folder ‘MitchellInt’ to desired spot. Download the latest version of Android Studio, click ‘Open existing project’ and point to the location where the folder is unzipped. 
+
+Update: 
+10/30/2017:
+In the previous release, when the user click‘GET’or‘DELETE’button, the edittext will accept non-numeric input, which will cause the program to crash. 
+These problem is fixed in this release. 
+
