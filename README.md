@@ -24,6 +24,8 @@ Fig.3 After Creating Vehicles
 
 
 ![Demo](/screenshots/fig3.png)
+
+
 Read: 
 Click the “GET ALL VEHICLES” or “GET” button
  			 
