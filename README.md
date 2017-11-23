@@ -7,41 +7,78 @@ Demo:
 Home screen:
  
 Fig. 1 Home screen
+
+
 ![Demo](/screenshots/fig1.png)
 Create: 
 Create Vehicle by clicking the “CREATE” button
    			 
 Fig.2 Create A Vehicle	
+
+
 ![Demo](/screenshots/fig2.png)
 
 
 	
 Fig.3 After Creating Vehicles
+
+
 ![Demo](/screenshots/fig3.png)
 Read: 
 Click the “GET ALL VEHICLES” or “GET” button
  			 
-Fig.4 Search for a Vehicle				 
+Fig.4 Search for a Vehicle
+
+![Demo](/screenshots/fig4.png)
 
 Fig.5 Search Result
+
+![Demo](/screenshots/fig4.png)
+
+
 Delete:
-Click the “DELETE” button 
+Click the “DELETE” button
+
+![Demo](/screenshots/fig5.png)
+
  			 
 Fig.6 Delete a Vehicle					
 
+
+![Demo](/screenshots/fig6.png)
 Fig.7 After Deleting a Vehicle
+
+![Demo](/screenshots/fig7.png)
+
+
 Update:
 Click the Vehicle in the List
  				 
-Fig.8 Update a Vehicle					
+Fig.8 Update a Vehicle	
+
+![Demo](/screenshots/fig8.png)
+
 
 Fig.9 After Updating Vehicle Year
+
+![Demo](/screenshots/fig9.png)
+
+
+
 Filter:	
 Click “Filter” button
  			 
-Fig.10 Filter Vehicles					
+Fig.10 Filter Vehicles	
+
+
+![Demo](/screenshots/fig10.png)
+
 
 Fig.11 After Filtering 
+
+![Demo](/screenshots/fig11.png)
+
+
 
 Notes:
 1.	To install the application, please copy the application into the android device and click open for installation. Noted that users need to turn on “allow installation from unknown source”.
