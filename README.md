@@ -1,8 +1,4 @@
 # VehicleManagementSystem
-The Android App version has the following items:
-1.	The completed project source folder (Name: ‘MitchellInt’).
-2.	The application that is available for installation. (It will only run on Android 5.0 o above.)
-
 Demo:
 Home screen:
  
